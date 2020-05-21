@@ -1,2 +1,2 @@
 # readme-generator
-A NodeJS READEME.md  file generator.
+A NodeJS README.md file generator.
