@@ -1,4 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/RyanFCarr/readme-generator)
+
 # readme-generator
 
 ## Description
@@ -10,9 +11,7 @@ A NodeJS README.md file generator.
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
-
 
 ## Installation
 
@@ -28,14 +27,6 @@ npm i
 
 ## Contributing
 
-## Tests
-
-To run tests, run the following command.
-
-```
-some value here
-```
-
 ## Questions
-If you have any questions feel free to contact me at email.
+If you have any questions feel free to contact me at RyanFCarr@gmail.com
 
