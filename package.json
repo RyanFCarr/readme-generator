@@ -8,7 +8,7 @@
     "url": "git+https://github.com/RyanFCarr/readme-generator.git"
   },
   "author": "Ryan F. Carr RyanFCarr@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/RyanFCarr/readme-generator/issues"
   },
