@@ -1,6 +1,8 @@
 function generateMarkdown(answers) {
+  let encodedCharacter = answers.title.replace(" ","\+")
+  console.log(encodedCharacter);
   return `
-  ![GitHub](https://img.shields.io/github/license/${answers.name}/${answers.title})
+  ![GitHub](https://img.shields.io/github/license/${answers.name}/${encodedCharacter})
   # ${answers.title}
 
   ## Description

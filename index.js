@@ -39,4 +39,3 @@ fs.readFile("./utils/questions.json", "utf8", function (error, data) {
         });
     }
 });
-
